@@ -1,4 +1,4 @@
-# destini
+# Destini
 
 Choose your own adventure game
 
